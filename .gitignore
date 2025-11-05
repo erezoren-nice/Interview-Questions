@@ -36,3 +36,14 @@ build/
 
 ### Mac OS ###
 .DS_Store
+/.idea/.gitignore
+/src/main/resources/archetype-resources/src/main/java/App.java
+/src/main/resources/archetype-resources/src/test/java/AppTest.java
+/src/main/resources/META-INF/maven/archetype.xml
+/.idea/copilot.data.migration.agent.xml
+/.idea/copilot.data.migration.ask.xml
+/.idea/copilot.data.migration.ask2agent.xml
+/.idea/copilot.data.migration.edit.xml
+/.idea/misc.xml
+/src/main/resources/archetype-resources/pom.xml
+/.idea/vcs.xml
