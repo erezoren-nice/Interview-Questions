@@ -2,13 +2,6 @@
 
 A collection of coding interview questions and solutions for Mid- to Senior-level Engineers, covering both backend and frontend challenges.
 
-## 📋 Table of Contents
-
-- [Backend Questions](#backend-questions)
-- [Frontend Questions](#frontend-questions)
-- [Project Structure](#project-structure)
-- [Running Tests](#running-tests)
-- [Technologies Used](#technologies-used)
 
 ## 🔧 Backend Questions
 
