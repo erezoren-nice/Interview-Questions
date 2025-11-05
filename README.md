@@ -50,9 +50,20 @@ Build an event processor that executes events asynchronously with exponential ba
 
 ---
 
+### 6. [Orchestrated Restaurant Order Management System](src/main/java/interview/questions/backend/orchestratedrestaurant/REDME.md)
+**Difficulty:** Mid-Senior Backend
+
+Implement a concurrent restaurant simulation that orchestrates interactions between customers, waiters, and chefs using thread-safe queues and proper synchronization.
+
+**Key Concepts:** Multi-threading, thread pools, blocking queues, concurrent processing, graceful shutdown, producer-consumer pattern
+
+**Implementation:** [Restaurant.java](src/main/java/interview/questions/backend/orchestratedrestaurant/Restaurant.java)
+
+---
+
 ## 🌐 Frontend Questions
 
-### 6. [Ordered Asynchronous URL Response Printer](src/main/java/interview/questions/fronend/urlsinorder/REDME.md)
+### 7. [Ordered Asynchronous URL Response Printer](src/main/java/interview/questions/fronend/urlsinorder/REDME.md)
 **Difficulty:** Mid-Senior Frontend
 
 Fetch multiple URLs concurrently but print their responses in the original order.
